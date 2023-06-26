@@ -1,0 +1,8 @@
+c12c(n(CCC[*])cc1CN1CCC([*])(O)CC1)cccc2	C(C[*])C
+CC(C)N(CC[*])C1COc2c(c(C(=O)C)ccc2)C1	[*]C
+c1(C(NCC2N([*])CCC2)=O)c(OC)c(O)cc([*])c1	C([*])C
+c1([N+]([*])=O)c([*])cc(O)c(OC)c1[*]	[O-][*]
+C1C(CNC(c2c([*])c(O)cc([*])c2CCC)=O)N([*])CC1	O([*])C
+c1([*])c(Cl)cc(C(=O)NC2CN([*])CC2C)c(OC)c1	N([*])C
+c1c(OC)c(C(NCC2CN(Cc3ccccc3)CC2CCC)=O)cc(Cl)c1[*]	CN[*]
+Oc1c(OC)c2c(cc1OC)CCN1C2Cc2c(c([*])cc(OC)c2)C1	[*]OC
