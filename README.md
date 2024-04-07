@@ -16,6 +16,7 @@ This repository includes the training process of our generative model. Details a
 - tqdm
 - scipy
 
+The install time is near 10-15 minutes.
 
 ## Usage
 The default task of our code is to generate specific polymers according to the given scaffold with fine-tuning a pre-trained model in RL settings. 
